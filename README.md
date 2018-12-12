@@ -1,5 +1,7 @@
 # Amazon Tax Revenue Impact on NYC and VA
+
 ![Amazon Impact: NYC/VA](graph.jpg)
+
 Amazon will be building a new HQ spread between NYC, VA, and Nasheville. 
 I was interested to know how this would benefit these areas, so I used the info
 Amazon provided in a blog post and assumed a linear realization of the projected 
