@@ -55,5 +55,6 @@ ax2.plot(z, VA['Total Tax Revenue'], 'g-', label='Total Tax Revenue')
 ax2.plot(z, VA['Net Tax Revenue'], 'b-', label='Net Tax Revenue')
 ax2.grid(True)
 ax2.legend(loc='upper right')
+ax2.text(2035, -1.75, "Author: Geoff Langenderfer", fontsize = 5)
 
 plt.show()
